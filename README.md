@@ -69,17 +69,10 @@ CRC is commonly used in:
 ```text
 CRC-Error-Detection-Simulator/
 │
-├── crc_simulator.py
 ├── README.md
-├── screenshots/
-│   ├── output1.png
-│   ├── output2.png
-│
-├── report/
-│   └── Project_Report.pdf
-│
-└── flowchart/
-    └── CRC_Flowchart.png
+├── crc.py
+├── Project_Report.pdf
+└──flowchart.jpeg
 ```
 
 ---
